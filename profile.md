@@ -1,7 +1,7 @@
 # Student Developer Profile
 
 ## Personal Information
-- Full Name: Aung Phone Myat
+- Full Name: Aung Phone Myat (Elvis)
 - Student ID: 240702402013
 - Program: Information Technology
 - Academic Year: 2026
@@ -25,3 +25,14 @@ I expect to improve my programming skills, understand Git and GitHub, and learn 
 - Technical skills I want to improve: Programming and problem-solving
 - Technologies I want to learn: Python, JavaScript, and Django
 - Dream Job Position: Software Developer
+## Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
